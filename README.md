@@ -23,8 +23,9 @@
   <img src="https://img.shields.io/badge/go-1.22+-00ADD8?logo=go" alt="Go Version">
   <img src="https://img.shields.io/badge/status-you%20lost-red" alt="Status">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
-  <img src="https://img.shields.io/badge/dependencies-0-brightgreen" alt="Dependencies">
+  <img src="https://img.shields.io/badge/dependencies-an%20entire%20programming%20language%2C%20another%20programming%20language%2C%20and%20a%20%241500%2B%20laptop-orange" alt="Dependencies">
   <img src="https://img.shields.io/badge/usefulness-0-red" alt="Usefulness">
+  <img src="https://img.shields.io/badge/psychological%20damage-immeasurable-purple" alt="Psychological Damage">
 </p>
 
 ---
@@ -130,8 +131,10 @@ open YouLostTheGame.app
 
 ## Requirements
 
-- macOS 12+
-- Go 1.22+
+- macOS 12+ (this is a macOS-exclusive L)
+- Go 1.22+ (an entire programming language)
+- Swift compiler (another entire programming language)
+- A $1500+ laptop to run it on
 - A will to live (optional)
 
 ## Uninstallation
