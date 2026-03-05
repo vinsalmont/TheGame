@@ -29,6 +29,12 @@
 
 ---
 
+<p align="center">
+  <img src="screenshot.png" alt="Notification screenshot" width="500">
+</p>
+
+---
+
 ## What is this?
 
 [The Game](https://en.wikipedia.org/wiki/The_Game_(mind_game)) is a mental game where the objective is to **not think about The Game**. Whenever you think about The Game, you lose, and you must announce your loss.
